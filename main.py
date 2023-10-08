@@ -4,4 +4,4 @@ def say_hello():
 def main():
     say_hello()
 
-
+проверка коментария с сайта Git
